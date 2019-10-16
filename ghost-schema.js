@@ -107,7 +107,7 @@ const settings = {
     twitter: '@ghost',
     lang: 'en',
     timezone: 'Etc/UTC',
-    codeinjection_head: '<script>>some script</script><style></style>',
+    codeinjection_head: '<script>some script</script><style></style>',
     codeinjection_foot: '<style>.some-class {\n}</style><script></script>',
     codeinjection_styles: '.some-class {\n}',
     navigation: [
